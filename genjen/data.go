@@ -205,7 +205,7 @@ var groups = []struct {
 		parameters: []string{"r", "i"},
 	},
 	{
-		name:       "Copy",
+		name:       "RsyncBucket",
 		comment:    "renders the copy built-in function.",
 		variadic:   false,
 		opening:    "copy(",
